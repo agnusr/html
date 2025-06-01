@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fIRST</title>
+</head>
+<body>
+    <h1>HELLO WORLD</h1><hr>
+    <h2>HELLO World</h2>
+    <h3>How are you?</h3>
+    <h4>How are you?</h4>
+    <h5>How are you?</h5>
+    <h6>How are you?</h6>
+    <h7>How are you?</h7>
+    <p><i><u><strong>This is a <del>Deleted data</del>  paragraph</strong></u></i> <hr> 
+    br,img,a,hr,i,u,strong,del,ctrl+space</p>
+        <a href="h.html">second</a>
+        <button>Click</button>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sECOND</title>
+    </head>
+    <body>
+        <img src="https://images.app.goo.gl/TCK4kNQbGZXasxww6">
+        <img src="C:\Users\agnus\OneDrive\Pictures\Saved Pictures\n3">
+        <a href="https://google.com">GOOGLE</a>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>List</title>
+    </head>
+    <body>
+        <list>
+            <ol>
+                <li>Happy</li>
+                <li>Happy</li>
+                <li>Happy</li>
+            </ol>
+            <ul>
+                <li>Happy</li>
+                <li>Happy</li>
+                <li>Happy</li>
+            </ul>
+        </list>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table</title>
+    </head>
+    <body>
+        <table border="3px">
+            <thead>
+                <tr>
+                    <th>no1</th>
+                    <th>no2</th>
+                    <th>no3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+    <body>
+        <form>
+            <label>Full Name</label><br><input type="text"><br>
+            <label>Age</label><br><input type="number"><br>
+            <label>Email</label><br><input type="email"><br>
+            <label>Gender</label><br><input type="radio" name="a"><label>Male</label>
+            <input type="radio" name="a">Female<br>
+            <label>Qualification</label><br>
+            <select>
+                <option>Choose...</option>
+                <option>10</option>
+                <option>12</option>
+                <option>Degree</option>
+                <option>PG</option>
+            </select><br>
+            <label>Skills</label><br>
+            <input type="checkbox">css<br>
+            <input type="checkbox">html<br>
+            <input type="checkbox">js<br>
+            <input type="submit" value="SUBMIT">
+        </form>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Video</title>
+    </head>
+    <body>
+        <video controls loop autoplay width="500px">
+            <source src="C:\Users\agnus\Downloads\video.mp4.mov" type="video/mp4">
+        </video>
+        <audio controls>
+            <source src="" type="audio/mpeg">
+        </audio><br>
+        <iframe src="https://100k.live" frameborder="0"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-2RAq5o5pwc?si=ygf5uio_CnyyT2Cd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </body>
+</html>
+
+
+
+
